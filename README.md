@@ -1,6 +1,7 @@
 # 📈 Stock Price Movement Prediction
 
 A machine learning project that predicts short-term stock price movements (up or down) using technical analysis indicators.
+This project was developed and tested using TCS.NS (Tata Consultancy Services) stock data from the Indian market (NSE).
 
 > ⚠️ **Work in Progress** — Still under development, some bugs may exist.
 
